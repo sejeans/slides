@@ -1,6 +1,6 @@
 # slides
 
-프로젝트의 코드, 문서, 결과 파일을 읽고 발표용 슬라이드 원고를 만드는 Claude Code 스킬입니다. 원고는 마크다운(`slides.md`)으로 나오고, 디자인은 Figma 플러그인 Deck Builder가 고정된 규칙으로 그립니다.
+프로젝트의 코드, 문서, 결과 파일을 읽고 발표용 슬라이드 원고를 만드는 Claude Code 스킬입니다. 원고는 마크다운(`slides.md`)으로 나오고, 디자인은 Figma 플러그인 Deck Builder(https://github.com/sejeans/deck-builder)가 고정된 규칙으로 그립니다.
 
 ## 만들어지는 것
 
